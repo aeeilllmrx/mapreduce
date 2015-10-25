@@ -1,4 +1,4 @@
-## Some exercises with distributed data and the mapreduce framework.
+### Distributed data and the mapreduce framework.
 
 So far, we have:
 
