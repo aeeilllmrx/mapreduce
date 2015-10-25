@@ -1,7 +1,7 @@
-# spark-it-up
-spark exercises
+## Some exercises with distributed data and the mapreduce framework.
 
-- TF/IDF
-- finding pi
+So far, we have:
 
-- more to come
+- implementing TF/IDF in Spark
+- using mrjob to find mutual friends with the Yelp Challenge Dataset
+
