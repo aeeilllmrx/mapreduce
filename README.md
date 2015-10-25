@@ -2,6 +2,6 @@
 
 So far, we have:
 
-- implementing TF/IDF in Spark
-- using mrjob to find mutual friends with the Yelp Challenge Dataset
+- using mrjob to find [mutual friends](https://github.com/aeeilllmrx/mapreduce/blob/master/mrjob%20demo.ipynb) with the Yelp Challenge Dataset
+- - implementing [TF/IDF](https://github.com/aeeilllmrx/mapreduce/blob/master/tf_idf.ipynb) in Spark
 
